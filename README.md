@@ -1,4 +1,4 @@
-1) Узнать установленную версию: git git --version
+1) Узнать установленную версию git: git --version
 2) Установка git: xcode-select --install
 3) Настройка имени пользователя: git config --global user.name "Practicum"
 4) Настройка e-mail: git config --global user.email practicum@ya.ru
